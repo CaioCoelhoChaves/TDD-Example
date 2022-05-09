@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeTDD", "AtividadeTDD\AtividadeTDD.csproj", "{F2F957BA-1BDD-4B10-AD19-D1BF67BE7F60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteUnitario", "TesteUnitario\TesteUnitario.csproj", "{CD99F792-B64C-4D7F-847B-253ECA2DBC82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F957BA-1BDD-4B10-AD19-D1BF67BE7F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F957BA-1BDD-4B10-AD19-D1BF67BE7F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F957BA-1BDD-4B10-AD19-D1BF67BE7F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F957BA-1BDD-4B10-AD19-D1BF67BE7F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD99F792-B64C-4D7F-847B-253ECA2DBC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD99F792-B64C-4D7F-847B-253ECA2DBC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD99F792-B64C-4D7F-847B-253ECA2DBC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD99F792-B64C-4D7F-847B-253ECA2DBC82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {624DAF14-D73D-4720-81A1-DC9E192B0E58}
+	EndGlobalSection
+EndGlobal
